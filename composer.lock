@@ -1,0 +1,21 @@
+{
+    "hash": "b0a155dd6c195c59820227b90f6335f2",
+    "packages": [
+        {
+            "package": "zendframework/zend-db",
+            "version": "2.0.0"
+        },
+        {
+            "package": "zendframework/zend-servicemanager",
+            "version": "2.0.0"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ]
+}
